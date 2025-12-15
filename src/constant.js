@@ -142,7 +142,7 @@ export const SkillsInfo = [
     {
       id: 0,
       img: bbdu,
-      school: "Babu Banarasi Das University, Lucknow",
+      school: "",
       date: "2023 - 2025",
       grade: "78.67%",
       degree: "Master of Computer Applications (MCA)",
@@ -158,15 +158,15 @@ export const SkillsInfo = [
     {
       id: 2,
       img: cbse,
-      school: "Toolika Public School, Ghazipur",
+      school: "Shri Guru Ram Das Public school",
       date: "2019 - 2020",
-      grade: "70.80%",
+      grade: "79.80%",
       degree: "CBSE(XII) - PCM",
     },
     {
       id: 3,
       img: cbse,
-      school: "BSY Shikshan Sansthan, Tulasipur, Ghazipur",
+      school: "Jiya Lal Mittal Dav public",
       date: "2016 - 2017",
       grade: "8.2 CGPA",
       degree: "CBSE(X)",
@@ -190,7 +190,7 @@ export const SkillsInfo = [
         "MongoDB",
         "ImageKit"
       ],
-      github: "https://github.com/MohammadZakariya786/Car-Rental",
+      github: "https://github.com/Bipanjit/Car-Rental",
       webapp: "https://car-rental-omega-ruby.vercel.app/"
     }
     ,
@@ -221,7 +221,7 @@ export const SkillsInfo = [
         "A modern, responsive online grocery website, built with React, Tailwind CSS, and GSAP for smooth animations and seamless user experience. Grocify provides category-based browsing, detailed product listings, smooth GSAP-powered transitions, and a fully responsive UI. The highlight feature is its AI-powered chatbot, built with React and Tailwind CSS, and optimized with predefined Q&A, knowledge base integration, Gemini AI API with key rotation, and domain restrictions for accurate and cost-effective responses.Deployment is handled on Vercel serverless functions, with secure environment variable management for API keys.",
       image: grocify,
       tags: ["React.js", "Tailwind CSS", "GSAP", "Gemini API", "AI Chatbot"],
-      github: "https://github.com/MohammadZakariya786/Grocify",
+      github: "https://github.com/Bipanjit/Grocify",
       webapp: "https://grocify-alpha-three.vercel.app/",
     },
 
@@ -231,7 +231,7 @@ export const SkillsInfo = [
   description: "EVion is a modern, responsive landing page for EV charging solutions, built with React, Tailwind CSS, and GSAP for smooth animations. It features a responsive hero section, animated components, and a modern UI.",
   image: evion, 
   tags: ["React.js", "Tailwind CSS", "GSAP"],
-  github: "https://github.com/MohammadZakariya786/EVion",
+  github: "https://github.com/Bipanjit/EVion",
   webapp: "https://evion-two.vercel.app/"
 },
   {
@@ -241,7 +241,7 @@ export const SkillsInfo = [
       "MERN Stack Final Year Project | Feb 2025 – May 2025 : Developed a web application to streamline gym trainer hiring using the MERN stack. Implemented secure role-based authentication with JWT and Bcrypt.js. Enabled trainers to create profiles, upload certifications, and apply for jobs. Assisted in designing company dashboards for job posting, candidate review, and notifications. Collaborated with the existing backend structure to integrate role-based functionality for trainers and companies.",
     image: powerflex,
     tags: ["React.js", "Node.js", "Express.js", "MongoDB", "Tailwind CSS", "Framer Motion"],
-    github: "https://github.com/MohammadZakariya786/PowerFlex",
+    github: "https://github.com/Bipanjit/PowerFlex",
     webapp: "https://powerflex.onrender.com/",
   },
 ];  
