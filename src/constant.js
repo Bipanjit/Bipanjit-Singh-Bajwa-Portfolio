@@ -142,10 +142,10 @@ export const SkillsInfo = [
     {
       id: 0,
       img: bbdu,
-      school: "",
+      school: "Cgc University",
       date: "2023 - 2025",
       grade: "78.67%",
-      degree: "Master of Computer Applications (MCA)",
+      degree: "Btech",
     },
     {
       id: 1,
